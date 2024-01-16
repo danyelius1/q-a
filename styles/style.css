@@ -1,0 +1,23 @@
+* {
+    font-size: 15px;
+}
+
+input {
+    padding: 7px 15px;
+    outline: none;
+}
+
+input, textarea {
+    display: block;
+    margin: 15px 0;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+fieldset {
+    margin: 0 50px;
+    padding: 30px;
+    width: 30%;
+    border-radius: 15px;
+    border: 1px solid #000;
+}
